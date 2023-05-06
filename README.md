@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charlie
-- 👀 I’m interested in making video games and dumb projects
+- 👀 I’m interested in making video games and other fun projects
 - 🌱 I’m currently learning C#, Python, and JavaScript
 
 <!---

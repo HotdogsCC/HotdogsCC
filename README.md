@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charlie.</h1>
+<h1>Hi, I'm Charlie</h1>
 
 
 <p>Welcome to my page!</p>

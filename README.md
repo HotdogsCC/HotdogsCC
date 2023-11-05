@@ -32,13 +32,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-	    <td><a href="https://github.com/KaptianCore/MPTSimulator"><b>MPT Simulator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/MPTSimulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/MPTSimulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/MPTSimulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/MPTSimulator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
 	  <tr>
 		  <td><a href="https://github.com/HotdogsCC/Interdimensional-Calamity"><b>Interdimensional Calamity</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/HotdogsCC/Interdimensional-Calamity?style=flat-square&labelColor=343b41"/></td>

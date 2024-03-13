@@ -33,14 +33,14 @@
   </thead>
   <tbody>
 	  <tr>
-		  <td><a href="https://github.com/HotdogsCC/Interdimensional-Calamity"><b>Interdimensional Calamity</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/HotdogsCC/Interdimensional-Calamity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/HotdogsCC/Interdimensional-Calamity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/HotdogsCC/Interdimensional-Calamity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HotdogsCC/Interdimensional-Calamity?style=flat-square&labelColor=343b41"/></td>
+		  <td><a href="(https://github.com/HotdogsCC/Project-Orphia"><b>Project Orphia</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HotdogsCC/Project-Orphia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HotdogsCC/Project-Orphia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HotdogsCC/Project-Orphia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HotdogsCC/Project-Orphia?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-	    <td><a href="https://github.com/HotdogsCC/AT3-Sequence"><b>AT3-Sequence</b></a></td>
+	    <td><a href="https://github.com/HotdogsCC/AT3-Sequence"><b>Sequence</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/HotdogsCC/AT3-Sequence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/HotdogsCC/AT3-Sequence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/HotdogsCC/AT3-Sequence?style=flat-square&labelColor=343b41"/></td>

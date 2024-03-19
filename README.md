@@ -9,7 +9,8 @@
 <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="css3" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" width="40" height="40"/>
-<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="JS" width="40" height="40"/>
+<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width="40" height="40"/>
+<img src="https://i.pinimg.com/originals/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.png" alt="Maya" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hotdogscc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hotdogscc" /></p>
